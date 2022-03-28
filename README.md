@@ -22,3 +22,10 @@ For example, if I want to visualize subject #972 data I simply select it in the 
 <img width="1074" alt="Screen Shot 2022-03-27 at 8 22 33 PM" src="https://user-images.githubusercontent.com/83614893/160315913-d21fdcd4-412e-4472-bbfb-83dbd11705f3.png">
 
 ## Resources
+- Software
+  - Visual Studio 1.65.2
+  - Chrome Developer Tools
+  - Github Pages
+  
+- Data
+  - samples.json 
